@@ -1,4 +1,5 @@
-# PressAndHold hacked plist
+PressAndHold hacked plist
+-------------------------
 
 PressAndHold is a neat MacOSX feature that let's you do a long press and get a little menu with accent options for a character.
 

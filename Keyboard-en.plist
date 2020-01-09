@@ -43,9 +43,9 @@
 		<key>Direction</key>
 		<string>right</string>
 		<key>Keycaps</key>
-		<string>E 𝔼 Ē Ė Ę 𝟛</string>
+		<string>E 𝔼 Ē Ė Ę 𝟛 ³</string>
 		<key>Strings</key>
-		<string>E 𝔼 Ē Ė Ę 𝟛</string>
+		<string>E 𝔼 Ē Ė Ę 𝟛 ³</string>
 	</dict>
 	<key>Roman-Accent-F</key>
 	<dict>
@@ -79,9 +79,9 @@
 		<key>Direction</key>
 		<string>left</string>
 		<key>Keycaps</key>
-		<string>I 𝕀 Ī Į 𝟠</string>
+		<string>I 𝕀 Ī Į 𝟠 ⁸</string>
 		<key>Strings</key>
-		<string>I 𝕀 Ī Į 𝟠</string>
+		<string>I 𝕀 Ī Į 𝟠 ⁸</string>
 	</dict>
 	<key>Roman-Accent-J</key>
 	<dict>
@@ -133,36 +133,36 @@
 		<key>Direction</key>
 		<string>left</string>
 		<key>Keycaps</key>
-		<string>O 𝕆 Œ Ø Ō Õ 𝟡</string>
+		<string>O 𝕆 Œ Ø Ō Õ Ő 𝟡 ⁹</string>
 		<key>Strings</key>
-		<string>O 𝕆 Œ Ø Ō Õ 𝟡</string>
+		<string>O 𝕆 Œ Ø Ō Õ Ő 𝟡 ⁹</string>
 	</dict>
 	<key>Roman-Accent-P</key>
 	<dict>
 		<key>Direction</key>
 		<string>left</string>
 		<key>Keycaps</key>
-		<string>P ℙ ∏ ℿ 𝛹 𝟘</string>
+		<string>P ℙ ∏ ℿ 𝛹 𝟘 ⁰</string>
 		<key>Strings</key>
-		<string>P ℙ ∏ ℿ 𝛹 𝟘</string>
+		<string>P ℙ ∏ ℿ 𝛹 𝟘 ⁰</string>
 	</dict>
 	<key>Roman-Accent-Q</key>
 	<dict>
 		<key>Direction</key>
 		<string>left</string>
 		<key>Keycaps</key>
-		<string>Q ℚ ∀ ∃ ∄ ℵ ∝ 𝟙</string>
+		<string>Q ℚ ∀ ∃ ∄ ℵ ∝ 𝟙 ¹</string>
 		<key>Strings</key>
-		<string>Q ℚ ∀ ∃ ∄ ℵ ∝ 𝟙</string>
+		<string>Q ℚ ∀ ∃ ∄ ℵ ∝ 𝟙 ¹</string>
 	</dict>
 	<key>Roman-Accent-R</key>
 	<dict>
 		<key>Direction</key>
 		<string>left</string>
 		<key>Keycaps</key>
-		<string>R ℝ 𝟜</string>
+		<string>R ℝ 𝟜 ⁴</string>
 		<key>Strings</key>
-		<string>R ℝ 𝟜</string>
+        <string>R ℝ 𝟜 ⁴</string>
 	</dict>
 	<key>Roman-Accent-S</key>
 	<dict>
@@ -178,18 +178,18 @@
 		<key>Direction</key>
 		<string>left</string>
 		<key>Keycaps</key>
-		<string>T 𝕋 Þ 𝛩 𝟝</string>
+		<string>T 𝕋 Þ 𝛩 𝟝 ⁵</string>
 		<key>Strings</key>
-		<string>T 𝕋 Þ 𝛩 𝟝</string>
+		<string>T 𝕋 Þ 𝛩 𝟝 ⁵</string>
 	</dict>
 	<key>Roman-Accent-U</key>
 	<dict>
 		<key>Direction</key>
 		<string>left</string>
 		<key>Keycaps</key>
-		<string>U 𝕌 Û Ü Ù Ú Ū 𝟟</string>
+		<string>U 𝕌 Û Ü Ù Ú Ū 𝟟 ⁷</string>
 		<key>Strings</key>
-		<string>U 𝕌 Û Ü Ù Ú Ū 𝟟</string>
+		<string>U 𝕌 Û Ü Ù Ú Ū 𝟟 ⁷</string>
 	</dict>
 	<key>Roman-Accent-V</key>
 	<dict>
@@ -205,9 +205,9 @@
 		<key>Direction</key>
 		<string>left</string>
 		<key>Keycaps</key>
-		<string>W 𝕎 𝟚 ↑ ⇑ ↥ ⤉ ↟</string>
+		<string>W 𝕎 𝟚 ² ↑ ⇑ ↥ ⤉ ↟</string>
 		<key>Strings</key>
-		<string>W 𝕎 𝟚 ↑ ⇑ ↥ ⤉ ↟</string>
+		<string>W 𝕎 𝟚 ² ↑ ⇑ ↥ ⤉ ↟</string>
 	</dict>
 	<key>Roman-Accent-X</key>
 	<dict>
@@ -223,9 +223,9 @@
 		<key>Direction</key>
 		<string>left</string>
 		<key>Keycaps</key>
-		<string>Y 𝕐 Ÿ 𝟞</string>
+		<string>Y 𝕐 Ÿ 𝟞 ⁶</string>
 		<key>Strings</key>
-		<string>Y 𝕐 Ÿ 𝟞</string>
+		<string>Y 𝕐 Ÿ 𝟞 ⁶</string>
 	</dict>
 	<key>Roman-Accent-Z</key>
 	<dict>
@@ -277,9 +277,9 @@
 		<key>Direction</key>
 		<string>right</string>
 		<key>Keycaps</key>
-		<string>e 𝕖 ē ė ę 𝜀 𝜂 𝟛</string>
+		<string>e 𝕖 ē ė ę 𝜀 𝜂 𝟛 ³</string>
 		<key>Strings</key>
-		<string>e 𝕖 ē ė ę 𝜀 𝜂 𝟛</string>
+        <string>e 𝕖 ē ė ę 𝜀 𝜂 𝟛 ³</string>
 	</dict>
 	<key>Roman-Accent-f</key>
 	<dict>
@@ -313,9 +313,9 @@
 		<key>Direction</key>
 		<string>left</string>
 		<key>Keycaps</key>
-		<string>i 𝕚 ī į 𝜄 𝟠</string>
+		<string>i 𝕚 ī į 𝜄 𝟠 ⁸</string>
 		<key>Strings</key>
-		<string>i 𝕚 ī į 𝜄 𝟠</string>
+		<string>i 𝕚 ī į 𝜄 𝟠 ⁸</string>
 	</dict>
 	<key>Roman-Accent-j</key>
 	<dict>
@@ -367,36 +367,36 @@
 		<key>Direction</key>
 		<string>left</string>
 		<key>Keycaps</key>
-		<string>o 𝕠 œ ø ō õ 𝟡</string>
+		<string>o 𝕠 œ ø ō õ ő 𝟡 ⁹</string>
 		<key>Strings</key>
-		<string>o 𝕠 œ ø ō õ 𝟡</string>
+		<string>o 𝕠 œ ø ō õ ő 𝟡 ⁹</string>
 	</dict>
 	<key>Roman-Accent-p</key>
 	<dict>
 		<key>Direction</key>
 		<string>left</string>
 		<key>Keycaps</key>
-		<string>p 𝕡 π ℼ 𝜓 𝟘</string>
+		<string>p 𝕡 π ℼ 𝜓 𝟘 ⁰</string>
 		<key>Strings</key>
-		<string>p 𝕡 π ℼ 𝜓 𝟘</string>
+		<string>p 𝕡 π ℼ 𝜓 𝟘 ⁰</string>
 	</dict>
 	<key>Roman-Accent-q</key>
 	<dict>
 		<key>Direction</key>
 		<string>left</string>
 		<key>Keycaps</key>
-		<string>q 𝕢 ∀ ∃ ∄ ℵ ∝ 𝟙</string>
+		<string>q 𝕢 ∀ ∃ ∄ ℵ ∝ 𝟙 ¹</string>
 		<key>Strings</key>
-		<string>q 𝕢 ∀ ∃ ∄ ℵ ∝ 𝟙</string>
+		<string>q 𝕢 ∀ ∃ ∄ ℵ ∝ 𝟙 ¹</string>
 	</dict>
 	<key>Roman-Accent-r</key>
 	<dict>
 		<key>Direction</key>
 		<string>left</string>
 		<key>Keycaps</key>
-		<string>r 𝕣 𝜌 𝜚 𝟜</string>
+		<string>r 𝕣 𝜌 𝜚 𝟜 ⁴</string>
 		<key>Strings</key>
-		<string>r 𝕣 𝜌 𝜚 𝟜</string>
+		<string>r 𝕣 𝜌 𝜚 𝟜 ⁴</string>
 	</dict>
 	<key>Roman-Accent-s</key>
 	<dict>
@@ -412,18 +412,18 @@
 		<key>Direction</key>
 		<string>left</string>
 		<key>Keycaps</key>
-		<string>t 𝕥 𝜏 þ 𝜃 𝜗 𝟝</string>
+		<string>t 𝕥 𝜏 þ 𝜃 𝜗 𝟝 ⁵</string>
 		<key>Strings</key>
-		<string>t 𝕥 𝜏 þ 𝜃 𝜗 𝟝</string>
+		<string>t 𝕥 𝜏 þ 𝜃 𝜗 𝟝 ⁵</string>
 	</dict>
 	<key>Roman-Accent-u</key>
 	<dict>
 		<key>Direction</key>
 		<string>left</string>
 		<key>Keycaps</key>
-		<string>u 𝕦 û ü ù ú ū 𝟟</string>
+		<string>u 𝕦 û ü ù ú ū 𝟟 ⁷</string>
 		<key>Strings</key>
-		<string>u 𝕦 û ü ù ú ū 𝟟</string>
+		<string>u 𝕦 û ü ù ú ū 𝟟 ⁷</string>
 	</dict>
 	<key>Roman-Accent-v</key>
 	<dict>
@@ -439,9 +439,9 @@
 		<key>Direction</key>
 		<string>right</string>
 		<key>Keycaps</key>
-		<string>w 𝕨 𝜔 𝜛 𝟚 ↑ ⇑ ↥ ⤉ ↟</string>
+		<string>w 𝕨 𝜔 𝜛 𝟚 ² ↑ ⇑ ↥ ⤉ ↟</string>
 		<key>Strings</key>
-		<string>w 𝕨 𝜔 𝜛 𝟚 ↑ ⇑ ↥ ⤉ ↟</string>
+		<string>w 𝕨 𝜔 𝜛 𝟚 ² ↑ ⇑ ↥ ⤉ ↟</string>
 	</dict>
 	<key>Roman-Accent-x</key>
 	<dict>
@@ -457,9 +457,9 @@
 		<key>Direction</key>
 		<string>left</string>
 		<key>Keycaps</key>
-		<string>y 𝕪 ÿ 𝟞</string>
+		<string>y 𝕪 ÿ 𝟞 ⁶</string>
 		<key>Strings</key>
-		<string>y 𝕪 ÿ 𝟞</string>
+		<string>y 𝕪 ÿ 𝟞 ⁶</string>
 	</dict>
 	<key>Roman-Accent-z</key>
 	<dict>

@@ -14,7 +14,8 @@ Since the accent list is in a `.plist` file, you can edit it to change or extend
 I have done just that here. This `.plist` file provides
 
 1. 𝔹𝕝𝕒𝕔𝕜𝕓𝕠𝕒𝕣𝕕 bold letters and digits - digits are handled by the key right underneath (in QWERTY) - so to get a 𝟛 you'll press and hold E. You also get ℼ, ℿ, ⅀, ℽ and ℾ.
-2. More greek letters. You can usually get µ and π easily, and I know how to also get ∑ and Ω straightforwardly. But this gives press and hold access to 
+2. Superscript digits, placed together with the blackboard bold digits.
+3. More greek letters. You can usually get µ and π easily, and I know how to also get ∑ and Ω straightforwardly. But this gives press and hold access to 
    * 𝜔, 𝜛 (on w)
    * 𝜀, 𝜂 (on e)
    * 𝜌, 𝜚 (on r)
@@ -39,13 +40,13 @@ as well as
    * 𝛤 (on G)
    * 𝛬 (on L)
    * 𝛯 (on X)
-3. Arrows! Since S had a lot of letters assigned, arrows are 
+4. Arrows! Since S had a lot of letters assigned, arrows are 
    * a/A - ←⇐↚↢↞↤
    * w/W - ↑⇑↥⤉↟
    * d/D - →⇒↛↣↠↦
    * x/X - ↓⇓↧⤈↡ (not S - we don't get WASD arrows alas)
    * s/S - ↔︎⇔
-4. A few miscellaneous useful symbols hiding under q/Q - ∀∃∄ℵ∝
+5. A few miscellaneous useful symbols hiding under q/Q - ∀∃∄ℵ∝
 
 To use this, find out where your computer has PressAndHold.app. On High Sierra, this is in `/System/Library/Input Methods/`. Inside the app (which is actually a directory), there is a directory with a lot of `.plist` files. It used to - on earlier versions - be in `PressAndHold.app/Contents/Resources` if I remember correctly. On High Sierra, the `.plist` definitions can be found in `PressAndHold.app/Contents/PlugIns/PAH_Extension.appex/Contents/Resources`.
 
